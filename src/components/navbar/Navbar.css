@@ -1,0 +1,18 @@
+.nav-wrapper
+{
+    background: var(--black);
+    color: white;
+}
+.nav-container
+{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.nav-links
+{
+    gap: 2rem;
+}
+.nav-links>*:hover
+{
+    cursor: pointer;
+}
